@@ -82,6 +82,10 @@ const Navbar = () => {
             <p>Welcome to</p>
             <h1>Qoptars</h1>
             </section>
+            <section className="hero-section">
+            {/* <p>Welcome to</p>
+            <h1>Qoptars</h1> */}
+            </section>
 
     </>
   )
