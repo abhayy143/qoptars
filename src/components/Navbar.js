@@ -44,21 +44,21 @@ const Navbar = () => {
           <ul className="social-media-desktop">
             <li>
               <a
-                href="https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA"
+                href="#"
                 target="_thapa">
                 <FaFacebookSquare className="facebook" />
               </a>
             </li>
             <li>
               <a
-                href="https://www.instagram.com/thapatechnical/"
+                href="#"
                 target="_thapa">
                 <FaInstagramSquare className="instagram" />
               </a>
             </li>
             <li>
               <a
-                href="https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA"
+                href="#"
                 target="_thapa">
                 <FaYoutubeSquare className="youtube" />
               </a>
