@@ -45,21 +45,21 @@ const Navbar = () => {
             <li>
               <a
                 href="#"
-                target="_thapa">
+                target="_blank">
                 <FaFacebookSquare className="facebook" />
               </a>
             </li>
             <li>
               <a
                 href="#"
-                target="_thapa">
+                target="_blank">
                 <FaInstagramSquare className="instagram" />
               </a>
             </li>
             <li>
               <a
                 href="#"
-                target="_thapa">
+                target="_blank">
                 <FaYoutubeSquare className="youtube" />
               </a>
             </li>
